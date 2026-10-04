@@ -1,0 +1,31 @@
+supplier_name,city,state,specialization,unit_cost,moq_per_style,sample_quality,capability_score,meets_required_capability,lead_time_days,reorder_time_days,monthly_capacity,reliability_score,costing_transparency,advance_payment_pct
+Manufacturer A (Surat),Surat,Gujarat,Printed women's wear,300,100,4,4,TRUE,35,25,8000,3,3,50
+Manufacturer B (Ahmedabad),Ahmedabad,Gujarat,Women's dresses & tops,330,50,5,5,TRUE,25,15,6000,5,5,40
+Manufacturer C (Surat),Surat,Gujarat,Basic women's tops,280,30,3,2,FALSE,20,12,3000,3,2,50
+Ambika Textiles & Garments (Ahmedabad),Ahmedabad,Gujarat,Women's dresses & kurtis,285,80,3,2,FALSE,27,14,3200,3,4,20
+Ambika Exports (Mumbai),Mumbai,Maharashtra,"Fast-fashion, small-batch styles",460,70,4,4,TRUE,28,15,3900,3,3,40
+Nakshatra Fabrics & Fashions (Ahmedabad),Ahmedabad,Gujarat,Women's dresses & kurtis,290,60,3,2,FALSE,31,21,7700,4,4,50
+Saanvi Exports (Okhla),"Okhla, Delhi NCR",Delhi,"Fashion exports, woven dresses",410,400,5,5,TRUE,31,21,33200,3,4,30
+Devika Exports (Okhla),"Okhla, Delhi NCR",Delhi,"Fashion exports, woven dresses",355,240,5,5,TRUE,51,35,28300,2,5,50
+Vrinda Clothing Co. (Surat),Surat,Gujarat,"Printed women's wear, synthetics",295,50,4,4,TRUE,30,18,3600,4,5,40
+Kesar Fashions (Jaipur),Jaipur,Rajasthan,"Hand-block prints, cotton wear",360,55,3,3,TRUE,22,15,2200,4,4,30
+Chandan Apparel Pvt Ltd (Jaipur),Jaipur,Rajasthan,"Hand-block prints, cotton wear",445,50,3,3,TRUE,19,11,2700,5,3,30
+Mayur Clothing Co. (Ludhiana),Ludhiana,Punjab,"Knits, winter & casual wear",370,170,5,5,TRUE,34,21,11800,3,4,20
+Devika Garments (Mumbai),Mumbai,Maharashtra,"Fast-fashion, small-batch styles",460,40,4,4,TRUE,20,13,4900,5,4,50
+Rangoli Apparel Pvt Ltd (Tiruppur),Tiruppur,Tamil Nadu,"Knitwear, tops, export basics",345,580,5,5,TRUE,32,23,51700,3,2,30
+Devika Apparels (Kolkata),Kolkata,West Bengal,"Cotton wear, ethnic tops",290,70,3,2,FALSE,26,18,4400,4,3,40
+Rangoli Stitch Works (Okhla),"Okhla, Delhi NCR",Delhi,"Fashion exports, woven dresses",315,340,4,4,TRUE,48,27,12100,4,4,30
+Ishani Garments (Tiruppur),Tiruppur,Tamil Nadu,"Knitwear, tops, export basics",285,490,3,3,FALSE,48,32,25900,3,3,40
+Anokhi Apparels (Ahmedabad),Ahmedabad,Gujarat,Women's dresses & kurtis,285,120,3,3,TRUE,23,13,3700,4,5,40
+Saanvi Creations (Surat),Surat,Gujarat,"Printed women's wear, synthetics",350,130,4,4,TRUE,20,15,11300,4,5,20
+Nakshatra Textiles & Garments (Surat),Surat,Gujarat,"Printed women's wear, synthetics",380,90,3,2,FALSE,34,19,9300,3,3,30
+Saanvi Apparels (Surat),Surat,Gujarat,"Printed women's wear, synthetics",320,130,2,2,FALSE,30,15,8300,5,5,20
+Tanvi Clothing Co. (Kolkata),Kolkata,West Bengal,"Cotton wear, ethnic tops",260,140,4,5,TRUE,32,17,7300,2,4,60
+Kesar Apparels (Tiruppur),Tiruppur,Tamil Nadu,"Knitwear, tops, export basics",310,330,4,5,TRUE,38,23,45200,5,4,50
+Shree Apparel Pvt Ltd (Mumbai),Mumbai,Maharashtra,"Fast-fashion, small-batch styles",380,50,3,3,TRUE,26,19,5400,3,2,60
+Pankhudi Stitch Works (Ludhiana),Ludhiana,Punjab,"Knits, winter & casual wear",370,120,3,3,TRUE,29,16,18300,4,5,30
+Anokhi Creations (Ludhiana),Ludhiana,Punjab,"Knits, winter & casual wear",380,270,4,4,TRUE,27,18,17400,4,4,40
+Kaveri Textiles & Garments (Mumbai),Mumbai,Maharashtra,"Fast-fashion, small-batch styles",340,35,3,3,TRUE,19,12,5200,3,5,30
+Suryansh Garments (Tiruppur),Tiruppur,Tamil Nadu,"Knitwear, tops, export basics",310,340,4,4,TRUE,47,35,33300,5,2,30
+Devika Textiles & Garments (Jaipur),Jaipur,Rajasthan,"Hand-block prints, cotton wear",450,45,4,3,TRUE,24,17,3600,5,4,50
+Meher Apparel Pvt Ltd (Bengaluru),Bengaluru,Karnataka,Export woven & knit garments,330,530,3,3,FALSE,37,20,59600,4,3,50
